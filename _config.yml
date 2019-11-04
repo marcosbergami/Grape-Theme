@@ -1,34 +1,34 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://marcosbergami.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Welcome! - Let The Journey Begin!
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Marcos Bergami
+    description : Computer Science Student on the road to become a Full Stack Developer.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start :
+        end :
+        experience :
     skills : 
-      - skill : HTML5 & CSS
+      - skill : NodeJS & ReactJS
         value : 85  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: marcos@mogri.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: marcosbergami
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
+    twitter: https://twitter.com/bergami_marcos
     youtube:
     facebook:
     instagram:
