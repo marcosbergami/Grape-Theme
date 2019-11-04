@@ -4,7 +4,7 @@ url : "https://marcosbergami.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Welcome! - Let The Journey Begin!
+  title : Let The Journey Begin!
   favicon : assets/pagesfavicon.ico
 
   # Profile Settings
