@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Welcome! Let's Get Started!
+title: Welcome!
 subtitle : Let the journey begin!
 tags: [General]
 author: Marcos Begami
 comments : False
 ---
 
-I am very happy to be starting my first blog! I believe it will be an interesting experience
+I am very happy to be starting my first blog!
+
+<br>
+
+I believe it will be an interesting experience
 for both myself, and all of the readers.
 
 <br>
@@ -21,4 +25,4 @@ You may also follow me on Twitter for quick updates!
 
 <br>
 
-I hope you can all enjoy this content and... LET THE JOURNEY BEGIN!
+I hope you can all enjoy this content :)
