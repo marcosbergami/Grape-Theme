@@ -5,11 +5,11 @@ url : "https://marcosbergami.github.io"
 # Blog Settings
 theme_settings :
   title : Welcome! - Let The Journey Begin!
-  favicon : assets/favicon.ico
+  favicon : assets/pagesfavicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profilepic.png
     username : Marcos Bergami
     description : Computer Science Student on the road to become a Full Stack Developer.
     experience :
@@ -28,7 +28,7 @@ theme_settings :
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter: https://twitter.com/bergami_marcos
+    twitter: bergami_marcos
     youtube:
     facebook:
     instagram:
