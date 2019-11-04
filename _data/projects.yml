@@ -2,7 +2,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/marcosbergami/gympoint # Full URL
-    image : "portfolio.png" # path: assets/project/
+    image : "logo.png" # path: assets/project/
     date : 2019.10.28 - Developing
     title : GymPoint
     summary : Gym management system.
